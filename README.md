@@ -5,7 +5,7 @@ Nos limitamos a colocar nada mas el POST y GET ya que se pedia solo registro de 
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Endpoint registro de usuarios:  http://localhost:3010/api/usuarios
+Endpoint registro de usuarios:  http://localhost:3010/api/usuarios  .
 Ejemplo de archivo JSON de entrada para registro de usuarios:
 
 {
@@ -18,7 +18,7 @@ Ejemplo de archivo JSON de entrada para registro de usuarios:
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Endpoint registro de transacciones: http://localhost:3010/api/transacciones
+Endpoint registro de transacciones: http://localhost:3010/api/transacciones  .
 Ejemplo de dos (2) archivos JSON de entrada para registro de transacciones al cliente de id cero (0):
 
 {
@@ -38,7 +38,7 @@ Ejemplo de dos (2) archivos JSON de entrada para registro de transacciones al cl
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Endpoint consulta cliente:  http://localhost:3010/api/usuarios/0
+Endpoint consulta cliente:  http://localhost:3010/api/usuarios/0   .
 Archivo JSON de salida, si se realiza una consulta del cliente previamente registrado:
 
 {
