@@ -3,6 +3,7 @@ Servicio Web que permite registrar clientes y transacciones, un cliente puede te
 
 Nos limitamos a colocar nada mas el POST y GET ya que se pedia solo registro de clientes y transcciones. El PUT y DELETE que completan el RESTful estan como metodos privados, por eso no se ven en la API pero si estan implementados.
 
+Desarrollado en ASP.net con Entity Framework
 -----------------------------------------------------------------------------------------------------------------------------------
 
 Endpoint registro de usuarios:  http://localhost:3010/api/usuarios  .
